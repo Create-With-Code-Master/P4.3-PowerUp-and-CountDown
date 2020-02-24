@@ -6,9 +6,9 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Write informative debug messages by using concatenation and variables
+* Repeat functions with the with IEnumerator and Coroutines
+* Use SetActive to make game objects appear and disappear from the scene
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
