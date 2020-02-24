@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="assets/images/prototype-4/lesson-3-banner.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+Now that we have the basic gameplay established, it is time to add a new mechanic - the power up.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
